@@ -1,0 +1,19 @@
+# Ignore log files and logs directory
+logs/
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all .env files
+*.env
+
+# Ignore macOS specific files
+.DS_Store
+
+__pycache
+*.pyc
+
+.vscode/
+
+.env
