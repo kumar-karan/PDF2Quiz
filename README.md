@@ -1,5 +1,8 @@
-# PDF2QUIZ
-Website to convert any pdf into a quiz.
+## PDF2Quiz
+
+Convert any PDF into an interactive quiz effortlessly with PDF2Quiz. This web application utilizes OpenAI's Language Models (LLMs) and React to transform static documents into engaging learning experiences. Whether you're a student, educator, or lifelong learner, PDF2Quiz simplifies the process of turning dense content into digestible quizzes.
+
+### Demo
 
 ### Demo
 Click on the image to view the demo video.
